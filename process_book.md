@@ -23,3 +23,8 @@
 # 15/12/2024
 - Cleaned up code
 - Improved Process Book
+
+# 16/12/2024
+- Made Clustered Heatmaps
+- Working on final project description
+- Working on final presentation
